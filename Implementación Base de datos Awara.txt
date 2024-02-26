@@ -1,0 +1,15 @@
+Para el uso adecuado de la base de datos AWARA se recomeinda seguir los siguientes pasos segun el orden establecidos en esta lista:
+
+Paso 1: Ejecutar archivo "01. Tables_description".
+Paso 2: Ejecutar archivo "02. Triggers".
+Paso 3: Ejecutar archivo "03. Functions".
+Paso 4: Ejecutar archivo "04. Procedures".
+Paso 5: Ejecutar archivo "05. Insertion_data".
+Paso 6: Ejecutar archivo "06. Views".
+Paso 7: Ejecutar archivo "07. Testing"*. 
+Paso 8: Ejecutar archivo "08. User Access".
+Paso 9: Ejecutar archivo "09. TCL".
+
+*: El Archivo "07. Testing" se recomienda ejecutar por sentencia o por sección de ejecucuión ya que contiene la prueba de todo lo anterior implementado.
+
+Se adiciona el archivo "10. Backup" como base de datos de respaldo.
